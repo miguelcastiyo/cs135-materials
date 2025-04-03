@@ -1,4 +1,4 @@
-# CS135 Course Assignments
+# CS135 Course Materials
 
 Welcome to the repository for CS135, an introductory course in computer science and programming. This repository houses all the assignments, sample inputs/outputs, and related resources used throughout the course.
 
