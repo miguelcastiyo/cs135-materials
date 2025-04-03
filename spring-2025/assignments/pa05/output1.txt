@@ -1,0 +1,13 @@
+Enter expenses for Mos Eisley Cantina (-1 to end):
+
+Galactic Credit Expense Report - Mos Eisley Cantina
+
+| Statistic                        | Value/Credits  |
+|--------------------------------- |----------------|
+| Total count of expenses          | 6              |
+| Total sum of expenses            | 13950.00       |
+| Average expense per transaction  | 2325.00        |
+| Top Two Highest Expenses         | 5000.00        |
+|                                  | 3200.00        |
+| Bottom Two Lowest Expenses       | 450.00         |
+|                                  | 1200.00        |

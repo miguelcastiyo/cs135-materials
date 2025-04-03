@@ -1,0 +1,11 @@
+
+Enter the input filename: 
+Filename: /home/shared/cs135/mcastillo/pa03/pa03-data2.txt
+
+
+ARTIST NAME                 STREAMS        PAYOUT PER STREAM        TOTAL PAYOUT
+--------------------------------------------------------------------------------
+Foo Fighters               15000000         $0.0055                   $82500.00
+Morgan Wallen              18000000         $0.0048                   $86400.00
+Calvin Harris              19000000         $0.0060                   $114000.00
+

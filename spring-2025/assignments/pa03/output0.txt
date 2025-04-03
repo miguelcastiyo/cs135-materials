@@ -1,0 +1,11 @@
+
+Enter the input filename: 
+Filename: /home/shared/cs135/mcastillo/pa03/pa03-data0.txt
+
+
+ARTIST NAME                 STREAMS        PAYOUT PER STREAM        TOTAL PAYOUT
+--------------------------------------------------------------------------------
+Kendrick Lamar             18000000         $0.0060                   $108000.00
+Tyler The Creator          14000000         $0.0048                   $67200.00
+Frank Ocean                12500000         $0.0055                   $68750.00
+

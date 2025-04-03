@@ -1,0 +1,11 @@
+
+Enter the input filename: 
+Filename: /home/shared/cs135/mcastillo/pa03/pa03-data3.txt
+
+
+ARTIST NAME                 STREAMS        PAYOUT PER STREAM        TOTAL PAYOUT
+--------------------------------------------------------------------------------
+Tame Impala                13000000         $0.0046                   $59800.00
+Metallica                  21000000         $0.0062                   $130200.00
+BTS                        25000000         $0.0058                   $145000.00
+

@@ -1,0 +1,3 @@
+Foo Fighters, 15000000 0.0055
+Morgan Wallen, 18000000 0.0048
+Calvin Harris, 19000000 0.0060

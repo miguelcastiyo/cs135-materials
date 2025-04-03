@@ -1,0 +1,11 @@
+Las Vegas Hotel Expense Analysis
+
+| Statistic                   |      Value  |
+| --------------------------- | ----------- |
+| Total count of expenses     |         6   |
+| Sum of expenses             |  $ 5850.00  |
+| Average expense per item    |  $  975.00  |
+| Top Two Highest Expenses    |  $ 1500.00  |
+|                             |  $ 1200.00  |
+| Bottom Two Lowest Expenses  |  $  500.00  |
+|                             |  $  750.00  |
