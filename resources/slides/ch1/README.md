@@ -84,7 +84,7 @@ Central Processing Unit
 
 ## Central Processing Unit and Main Memory (cont)
 
-![Hardware components of a computer and main memory](media/Fig01-01.png)
+![Hardware components of a computer and main memory](../media/Fig01-01.png)
 
 ## Central Processing Unit and Main Memory (cont)
 
@@ -256,7 +256,7 @@ Steps needed to process a C++ program
 
 ## Processing a C++ Program (cont)
 
-![Processing a C++ Program](media/Fig01-02.png)
+![Processing a C++ Program](../media/Fig01-02.png)
 
 ## Programming with the Problem Analysis–Coding–Execution Cycle
 
@@ -268,7 +268,7 @@ Steps needed to process a C++ program
 
 ## Programming with the Problem Analysis–Coding–Execution Cycle (cont)
 
-![Problem analysis-coding-execution cycle](media/Fig01-03.png){height=245px}
+![Problem analysis-coding-execution cycle](../media/Fig01-03.png){height=245px}
 
 ## Problem Analysis–Coding–Execution Cycle
 
