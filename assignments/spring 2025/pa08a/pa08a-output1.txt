@@ -1,0 +1,2 @@
+Player 1 is at position 9
+Player 2 is at position 10
