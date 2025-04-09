@@ -2,7 +2,7 @@
 
 ## Using the ``mkassign`` command:
 
-1. After signing in to the Bellagio server, use the ``astyle`` command:
+1. After signing in to the Bellagio server, use the ``mkassign`` command:
 
     ``` 
     $ mkassign
