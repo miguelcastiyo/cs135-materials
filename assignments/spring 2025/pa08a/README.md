@@ -5,16 +5,19 @@
 We have a simplified race along a **1D candy-themed board** with squares numbered `1` to `30`. Each player starts at square `1` and takes turns rolling a six-sided die (values `1`–`6`). 
 
 The square numbering:
+
 - **Start:** Square `1`
 - **End:** Square `30`
 
 Some squares are special:
+
 - **Boost** (if `start < end`): Land on this square and jump forward to `end`.
 - **Cavity** (if `start > end`): Land on this square and get pulled backward to `end`.
 
 If a die roll would move you **beyond** square `30`, you **do not move** on that turn. The moment a player **exactly** reaches square `30`, the game ends immediately and that player is the winner. Any remaining rolls in the input should be ignored.
 
 Your task:  
+
 1. **Read** the number of players, special squares, and die rolls.  
 2. **Store** boost/cavity squares in a **1D array**.  
 3. **Simulate** each roll in a round-robin fashion until a player wins or rolls run out.  
